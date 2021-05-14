@@ -282,6 +282,7 @@ header .navbar ul li a:hover {
   flex-wrap: wrap;
   padding: 1rem 0;
   text-align: center;
+  margin: 0 6rem;
 }
 
 .ca .box-container .box {
@@ -315,6 +316,8 @@ header .navbar ul li a:hover {
   font-size: 1.4rem;
   color: #eee;
   padding: 1rem 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 .portfolio .box-container {
